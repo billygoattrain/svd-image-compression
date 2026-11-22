@@ -1,0 +1,18 @@
+PROJECT STATUS UPDATE
+- Personal photo added as data/my_photo.png
+- data/README.md updated
+- All five notebooks executed successfully
+- Required figure files generated in figures/
+
+WHAT YOU STILL NEED TO DO BEFORE SUBMITTING
+1. Open each notebook and read through the outputs.
+2. Replace any placeholder wording in the final "What we found" sections with your own short explanation and at least one number from the notebook.
+3. Create or update your GitHub repository with the full project structure.
+4. Upload the five notebooks, src/compress.py, README.md, requirements.txt, LICENSE, .gitignore, data/my_photo.png, data/README.md, and figures/*.png.
+5. Open the notebooks from GitHub in Colab and confirm they run top-to-bottom.
+6. Check that the README images render on GitHub.
+7. Submit the GitHub link or email the files only if your professor specifically says to do that.
+
+OPTIONAL BUT SMART
+- Add one honest sentence in README about limitations and one sentence about what pattern/image compressed best or worst.
+- Keep a backup ZIP of the finished repository.
